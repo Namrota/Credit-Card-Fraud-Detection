@@ -14,10 +14,7 @@ Credit card fraud is any dishonest act and behaviour to obtain information witho
 
 Apart from this, the other ways are:
 
-Manipulation/alteration of genuine cards
-Creation of counterfeit cards
-Stolen/lost credit cards
-Fraudulent telemarketing
+Manipulation/alteration of genuine cards, Creation of counterfeit cards, Stolen/lost credit cards, and Fraudulent telemarketing
 
 ## Objective:
 To predict fraudulent credit card transactions with the help of machine learning models.
